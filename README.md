@@ -24,4 +24,4 @@ Este projeto cria um **professor inteligente** que:
 ## 🚀 Como começar a usar
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/TiagoaguiaX)
+   git clone (https://github.com/TiagoaguiaX)
